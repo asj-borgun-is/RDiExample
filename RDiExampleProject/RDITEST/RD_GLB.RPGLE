@@ -1,0 +1,27 @@
+000100081014
+000200121011     h* #DbgView = *ALL
+000300121011     h* #DftActGrp = *NO
+000400120925     h* #ActGrp = OW
+000500200727     h* #TgtRls = V7R3M0
+000600201223     h* #BndDir = RDIPRCBND
+000700081008     h* #BndDir2 = K2ABNDDIR
+000800100114     h* #BndDir3 = VISBNDDIR
+000900120926     h* #BndDir4 = QUSAPIBD
+001000141031      * Sett inn vegna skráa sem var búið að breyta á ASDEV en ekki EUROCARD
+001001201223      * Fimmta breyting
+001100141031     h* #DtaLib  = ASJ
+001200141031     h* #DtaLib2 = DBFILES
+001300141031     h* #DtaLib3 = DBSCHEMA
+001400201222     h* #PgmLib = ASJ
+001500201222     h* #PgmLib2 = DBLIBR
+001501201223     h* #SrcLib = ASJ
+001600120925     h* #SrcLib2 = CGIDEV2
+001700120925     h* #RpgOption = *SRCDBG
+001800081008     h* #DatFmt = *ISO
+001900081008     h* #TimFmt = *ISO
+002000081023     h* #AlwNull = *USRCTL
+002100091221     h* #closqlcsr = *ENDMOD
+002200131128     h* #usrprf = *OWNER
+002300131128     h* #aut = *CHANGE
+002400171116     h* #debugio = 0
+002500091221
