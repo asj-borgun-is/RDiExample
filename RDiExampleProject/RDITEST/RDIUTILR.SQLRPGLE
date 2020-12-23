@@ -8,13 +8,13 @@
 000503160609      * 09.06.2016 Aðalsteinn. Breytingar fyrir V3.
 000600120925
 000700160609      * #type = SQLSRV
-000800120925      * #glb = OW_GLB
-000900120925      * #export = OWXUTILX
+000800201223      * #glb = RD_GLB
+000900201223      * #export = RDIUTILX
 001000121112
 001100160609     fOWXUTILF  uf a f  453        disk    usropn
 001200120925
 001300120925      * Common definitions
-001400121109      /copy qsrcow,ow_def
+001400201223      /copy rditest,rd_def
 001500121112      /copy qrpgsrc,dbxdef
 001600121112      /copy qsrca,k2ad
 001700121108

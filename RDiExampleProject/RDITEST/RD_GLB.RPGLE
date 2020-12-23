@@ -7,8 +7,7 @@
 000700081008     h* #BndDir2 = K2ABNDDIR
 000800100114     h* #BndDir3 = VISBNDDIR
 000900120926     h* #BndDir4 = QUSAPIBD
-001000141031      * Sett inn vegna skráa sem var búið að breyta á ASDEV en ekki EUROCARD
-001001201223      * Fimmta breyting
+001000201223      * Fimmta breyting
 001100141031     h* #DtaLib  = ASJ
 001200141031     h* #DtaLib2 = DBFILES
 001300141031     h* #DtaLib3 = DBSCHEMA
