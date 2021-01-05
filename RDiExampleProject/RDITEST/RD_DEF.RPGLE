@@ -3,7 +3,7 @@
 000300060405      /endif
 000400120925      /define ow_def
 000500060405
-000600121109      /copy qrpgsrc,dbxdef
+000600210105      /copy qrpgsrc,dbxdef
 000700121109
 000800060410      * Common definition specs
 000900120925      * 25.09.2012 Aðalsteinn Jónsson

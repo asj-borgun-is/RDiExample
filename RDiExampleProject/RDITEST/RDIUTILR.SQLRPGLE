@@ -14,9 +14,9 @@
 001100160609     fOWXUTILF  uf a f  453        disk    usropn
 001200120925
 001300120925      * Common definitions
-001400201223      /copy rditest,rd_def
-001500121112      /copy qrpgsrc,dbxdef
-001600121112      /copy qsrca,k2ad
+001400210105      /copy rditest,rd_def
+001500210105      /copy qrpgsrc,dbxdef
+001600210105      /copy qsrca,k2ad
 001700121108
 001800121112      * Local constants
 001900160615     dcNodeStackDim    c                   20
