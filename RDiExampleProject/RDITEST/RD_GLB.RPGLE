@@ -7,7 +7,7 @@
 000700081008     h* #BndDir2 = K2ABNDDIR
 000800100114     h* #BndDir3 = VISBNDDIR
 000900120926     h* #BndDir4 = QUSAPIBD
-001000210105      * Tíunda breyting, BranchTest2
+001000210105      * Ellefta breyting, BranchTest3
 001100141031     h* #DtaLib  = ASJ
 001200141031     h* #DtaLib2 = DBFILES
 001300141031     h* #DtaLib3 = DBSCHEMA
