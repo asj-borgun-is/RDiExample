@@ -23,7 +23,7 @@
 001100160609dcl-f OWXUTILF   DISK(453) usage(*update:*delete:*output) usropn;
 001200120925
 001300120925// Common definitions
-001400210105/copy rditest,rd_def
+001400210106/copy rditest,rd_deff
 001500210105/copy qrpgsrc,dbxdef
 001600210105/copy qsrca,k2ad
 001700121108
