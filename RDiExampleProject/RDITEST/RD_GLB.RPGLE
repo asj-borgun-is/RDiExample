@@ -14,7 +14,7 @@
 001400201222     h* #PgmLib = ASJ
 001500201222     h* #PgmLib2 = DBLIBR
 001501201223     h* #SrcLib = ASJ
-001600120925     h* #SrcLib2 = CGIDEV2
+001600210118     h* #SrcLib2 = DBSOURCE
 001700120925     h* #RpgOption = *SRCDBG
 001800081008     h* #DatFmt = *ISO
 001900081008     h* #TimFmt = *ISO
