@@ -7,6 +7,7 @@
 000700121109
 000800060410      * Common definition specs
 000900120925      * 25.09.2012 Aðalsteinn Jónsson
+                  * 15.03.2022 Aðalsteinn. GitHub experiment.
 001000051010
 001100060405      * Dummy null pointer for structure defines
 001200120925     dowNullP          s               *   inz(*null)
