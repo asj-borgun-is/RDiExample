@@ -9,8 +9,7 @@
 000900120925      * 25.09.2012 Aðalsteinn Jónsson
                   * 15.03.2022 Aðalsteinn. GitHub experiment.
                   * 15.03.2022 Aðalsteinn. GitHub experiment II.
-                  * 15.03.2022 Aðalsteinn. GitHub experiment III.
-                  * 15.03.2022 Aðalsteinn. GitHub experiment IV.				  
+                  * 15.03.2022 Aðalsteinn. GitHub experiment III.				  
 001000051010
 001100060405      * Dummy null pointer for structure defines
 001200120925     dowNullP          s               *   inz(*null)
